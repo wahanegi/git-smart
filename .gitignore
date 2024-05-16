@@ -13,3 +13,7 @@ doc
 
 # jeweler generated
 pkg
+
+# Jetbrains IDE
+.idea/
+.idea*

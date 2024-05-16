@@ -1,13 +1,13 @@
 Gem::Specification.new do |s|
   s.name = %q{git-smart}
-  s.version = "0.1.10"
+  s.version = "0.1.11"
 
   s.authors = ["Glen Maddern"]
   s.email = %q{glenmaddern@gmail.com}
   s.date = %q{2011-01-06}
   s.summary = %q{Add some smarts to your git workflow}
   s.description = %q{Installs some additional 'smart' git commands, like `git smart-pull`.}
-  s.homepage = %q{http://github.com/geelen/git-smart}
+  s.homepage = %q{http://github.com/wahanegi/git-smart}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
 
